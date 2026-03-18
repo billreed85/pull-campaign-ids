@@ -4,7 +4,7 @@ A simple Python script to automate pulling campaign IDs from form pages into a C
 ## Initial Setup
 **Step 1:** Download this Git Repo somewhere on your computer.
 
-Go to Code and select "Download Zip"
+Go to Code and select "Download Zip". Unzip and save the folder somewhere you can find it.
 
 **Step 2:**
 Download Python: https://www.python.org/ftp/python/3.14.3/python-3.14.3-macos11.pkg

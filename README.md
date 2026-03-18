@@ -19,7 +19,11 @@ Open Terminal and type cd
 
 Then drag the pull-campaign-ids to the line after CD and press enter. Your Terminal should now be at the location of your folder.
 
-**Step 5:** Test that the application works.
+**Step 5:** Install dependencies.
+
+In Terminal, while navigated to the pull-campaign-ids folder type: python3 -m pip install requests beautifulsoup4
+
+**Step 6:** Test that the application works.
 
 In the Terminal type: python3 id.py
 
